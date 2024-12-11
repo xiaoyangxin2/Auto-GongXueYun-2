@@ -1,0 +1,24 @@
+[
+  {
+    "enable": true,
+    "phone": "18374181992",
+    "password": "@As2345678",
+    "keepLogin": false,
+    "token": "如果keepLogin为false就不填",
+    "userId": "如果keepLogin为false就不填",
+    "planId": "如果keepLogin为false就不填",
+    "randomLocation": true,
+    "user-agent": "null",
+    "signCheck": false,
+    "country": "中国",
+    "province": "福建省",
+    "city": "厦门市",
+    "area": "集美区",
+    "desc": "",
+    "type": "android",
+    "address": "月明楼",
+    "longitude": "118.09525344092071",
+    "latitude": "24.584733803800923"",
+    "pushKey": "0bca546cd9b94c66ac1fa04babcec7b5"
+  }
+]
